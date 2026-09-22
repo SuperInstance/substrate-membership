@@ -1,0 +1,19 @@
+{
+  "name": "@superinstance/substrate-membership",
+  "version": "0.1.0",
+  "description": "MEMBERSHIP opcode (R10): test if an observation is a member of a bundle.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "membership",
+    "bundle",
+    "substrate",
+    "jev-quilt",
+    "doctrine"
+  ],
+  "author": "SuperInstance",
+  "license": "MIT",
+  "dependencies": {
+    "@superinstance/observation-primitive": "file:../observation-primitive"
+  }
+}

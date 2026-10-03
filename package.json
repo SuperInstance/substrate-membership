@@ -1,6 +1,6 @@
 {
   "name": "@superinstance/substrate-membership",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "MEMBERSHIP opcode (R10): test if an observation is a member of a bundle.",
   "main": "index.js",
   "types": "index.d.ts",
